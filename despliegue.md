@@ -1,0 +1,1 @@
+## Pasos para ejcutar el despliegue a azure for students
